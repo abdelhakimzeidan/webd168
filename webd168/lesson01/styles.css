@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 20px 0;
+}
+
+ul {
+  list-style-type: square;
+}
